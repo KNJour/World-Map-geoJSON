@@ -1,0 +1,38 @@
+pre {
+    font-size: 1.5rem;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+
+.tick text {
+    fill: rgb(32, 133, 7);
+}
+
+.marks path {
+    stroke: #C0C0BB;
+    fill:rgb(11, 105, 58)
+}
+
+.axisLabel {
+    font-size:2.2em;
+}
+
+.marks .globe {
+    fill: rgb(9, 83, 153);
+}
+
+.marks .countries {
+
+}
+
+.marks .interiors {
+    fill: none;
+    stroke: #696969;
+}
+
+.marks .graticule {
+    fill: none;
+}
